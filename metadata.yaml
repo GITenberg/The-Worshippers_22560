@@ -1,0 +1,43 @@
+_repo: The-Worshippers_22560
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Emshwiller, Ed
+    aliases:
+    - Emshwiller, Edmund A.
+    - Emsh, Ed
+    - Willer
+    - Emsh
+    - Alexander, Ed
+    birthdate: 1925
+    deathdate: 1990
+    gutenberg_agent_id: '25412'
+    url: http://www.gutenberg.org/2009/agents/25412
+    wikipedia: http://en.wikipedia.org/wiki/Ed_Emshwiller
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Knight, Damon
+    alias: Knight, Damon Francis
+    birthdate: 1922
+    deathdate: 2002
+    gutenberg_agent_id: '25414'
+    url: http://www.gutenberg.org/2009/agents/25414
+    wikipedia: http://en.wikipedia.org/wiki/Damon_Francis_Knight
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22560'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: The Worshippers
+url: http://www.gutenberg.org/ebooks/22560
